@@ -13,7 +13,7 @@
 echo "Number which are divided by 3 and 5 but not by 15 are as below: "
 for i in {1..100}; do
 
-   if ([ `expr $1 % 3` == 0 ] || [ `expr $1 % 5` == 0 ]) && [ `expr $1 % 15` == 0 ];
+   if ([ `expr $i % 3` == 0 ] || [ `expr $i % 5` == 0 ]) && [ `expr $i % 15` != 0 ];
    then
 	echo $i
    fi;
