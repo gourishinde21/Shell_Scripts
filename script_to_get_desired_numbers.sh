@@ -2,11 +2,11 @@
 
 ########################
 #
-# Auther : Gouri Shinde
+# Author : Gouri Shinde
 #
 # Script to write numbers divided by 3 and 5 but not by 15
 #
-# Version: 1
+# Version: v1
 #
 ########################
 

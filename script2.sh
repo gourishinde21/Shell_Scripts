@@ -2,11 +2,11 @@
 
 ########################
 #
-# Auther : Gouri Shinde
+# Author : Gouri Shinde
 #
 # Script to print number of SS in a word
 #
-# Version: 1
+# Version: v1
 #
 ########################
 
